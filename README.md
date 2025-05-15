@@ -1,4 +1,4 @@
-# Data Science Prep Course 2024 - Summary
+# Data Science Prep Course 2025 - Summary
 
 Welcome to the summary of the Data Science Prep Course 2024! This document provides an overview of the content covered in each week of the course. Use this as a guide to navigate through the materials and ensure you have a comprehensive understanding of the topics.
 
